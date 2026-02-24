@@ -2,7 +2,7 @@ module.exports = {
         "database": {
                 "host": "localhost",
                 "port": 3306,
-                "all_movies": "example.com",
+                "all_movies": "localhost",
                 "key": "FREE",
                 "date": ""
         },
@@ -10,7 +10,7 @@ module.exports = {
         "subdomain": "",
         "botdomain": "",
         "botdomains": "",
-        "domain": "0.0.0.0",
+        "domain": "localhost",
         "bomain": "",
         "alt": {
                 "botdomain": "",
@@ -68,12 +68,12 @@ module.exports = {
                 "message": "We've noticed suspicious activity, please check."
         },
         "blacklist": 0,
-        "email": "support@example.com",
-        "theme": "snow",
+        "email": "admin@localhost",
+        "theme": "default",
         "country": "US",
         "language": "en",
         "random": 0,
-        "homepage": "0.0.0.0",
+        "homepage": "localhost",
         "redirect": {
                 "from": [],
                 "to": []
