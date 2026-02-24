@@ -10,7 +10,7 @@ module.exports = {
         "subdomain": "",
         "botdomain": "",
         "botdomains": "",
-        "domain": "example.com",
+        "domain": "0.0.0.0",
         "bomain": "",
         "alt": {
                 "botdomain": "",
@@ -69,11 +69,11 @@ module.exports = {
         },
         "blacklist": 0,
         "email": "support@example.com",
-        "theme": "default",
+        "theme": "snow",
         "country": "US",
         "language": "en",
         "random": 0,
-        "homepage": "example.com",
+        "homepage": "0.0.0.0",
         "redirect": {
                 "from": [],
                 "to": []
